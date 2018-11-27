@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xiaomi2view:war">
+    <output-path>$PROJECT_DIR$/xiaomi2view/target</output-path>
+    <root id="archive" name="xiaomi2view.war">
+      <element id="artifact" artifact-name="xiaomi2view:war exploded" />
+    </root>
+  </artifact>
+</component>

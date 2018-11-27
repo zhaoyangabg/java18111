@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xiaomi2deo/xiaomi2deo.iml" filepath="$PROJECT_DIR$/xiaomi2deo/xiaomi2deo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomi2service/xiaomi2service.iml" filepath="$PROJECT_DIR$/xiaomi2service/xiaomi2service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiaomi2view/xiaomi2view.iml" filepath="$PROJECT_DIR$/xiaomi2view/xiaomi2view.iml" />
+    </modules>
+  </component>
+</project>
